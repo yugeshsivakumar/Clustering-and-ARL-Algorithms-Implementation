@@ -23,11 +23,11 @@ Each algorithm is implemented in separate Jupyter notebooks, and corresponding d
         Iris.csv
         Mall_Customers.csv
         Wholesale customers data.csv
-    1.KMeans.ipynb
-    2.KMeans++.ipynb
-    3.Hierarchical Clustering.ipynb
-    4.Apriori.ipynb
-    5.Eclat.ipynb
+    1.KMeans_Clustering.ipynb
+    2.KMeans++_Clustering.ipynb
+    3.Hierarchical_Clustering.ipynb
+    4.Apriori_arl.ipynb
+    5.Eclat_arl.ipynb
     requirements.txt
     README.md
 ```
